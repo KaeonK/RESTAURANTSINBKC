@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    margin: 0px;
+ padding-top:100px; 
+        
+}
+#place{
+    font-size: 70px;
+    font-weight: 300;
+    font-family: Merriweather
+        
+}
+h1{
+    font-size: 60px;
+    font-weight: 200;
+    font-family: fantasy
+}
+h2{font-size: 60px;
+    font-weight: 200;
+    font-family: fantasy
+
+    
+}
+#welcome{
+
+    background-color: aquamarine
+}
+img{
+    height: 500px;
+    width:800px;
+    border-radius:10%;
+}
+#about{height: 900px;
+    
+}
+
+#restaurants{
+ font-family:Cookie;
+font-size:100px;
+    
+}
+
+#AboutBKC{
+    background-color: antiquewhite;
+}
+
+#ReachingBKC{
+    background-color: aliceblue;
+}
+
+#Top7{
+    background-color: peachpuff
+}
+
+p{
+    font-size: 30px;
+    font-family: monospace
+}
+
+#Tresind{
+    background-color:cyan;
+}
+
+#ButterflyHigh{
+    background-color:pink
+}
+
+#Yauatcha{
+    background-color:deepskyblue
+}
+
+#SmokeHouseDeli{
+    background-color: blanchedalmond
+}
+
+#OPedro{
+    background-color: lightyellow
+}
+
+#SodaBottleOpenerWala{
+    background-color: greenyellow
+}
+
+#Hitchki{
+    background-color: mediumpurple
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: fixed;
+    top:30px;
+    right: 30px
+    cursor:pointer;
+    z-index:10;
+
